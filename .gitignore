@@ -1,1 +1,2 @@
 base/rootfs/usr/bin/qemu-*
+.devcontainer/devcontainer.json
